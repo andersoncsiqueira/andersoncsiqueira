@@ -9,7 +9,7 @@ Olá, meu nome é Anderson Campos!
 É muito bom receber sua visita em meu GitHub! 
 
 Sou um administrador que se apaixonou pela programação, no momento estou muito feliz em aprender as linguagens de marcação e estilização e conquistando o 
-domínio em minha primeira linguagem de programação, Javascript! Nos meus repositórios vão ter alguns projetos simples em que aplico os conceitos que estou aprendendo.
+domínio em minha primeira linguagem de programação, Javascript! Nos meus repositórios vão ter alguns projetos simples em que aplico os conceitos que busco aprender.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal projects 
