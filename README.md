@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +55 74 9 8835-2538
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
           
     
