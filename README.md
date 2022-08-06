@@ -13,7 +13,7 @@ domínio em minha primeira linguagem de programação, Javascript! Nos meus repo
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal projects 
-- 🌱 I’m currently learning JavaScript, HTML e CSS
+- 🌱 I’m currently learning JavaScript, React, HTML e CSS
 - 👯 I’m looking to collaborate every one
 - 🤔 I’m looking for help with learning more
 - 💬 Ask me about all you want
