@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 Olá, meu nome é Anderson Campos! 
-É muito bom receber sua visita em meu GitHub! 
+É muito bom receber sua visita em meu GitHub!!
 
 Sou um administrador que se apaixonou pela programação, no momento estou muito feliz em aprender as linguagens de marcação e estilização e conquistando o 
 domínio em minha primeira linguagem de programação, Javascript! Nos meus repositórios vão ter alguns projetos simples em que aplico os conceitos que estão aprendendo.
